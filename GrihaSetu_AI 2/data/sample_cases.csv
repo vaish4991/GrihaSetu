@@ -1,0 +1,4 @@
+case_id,monthly_net_income_inr,existing_obligations_inr,property_value_inr,requested_loan_inr,annual_interest_rate_percent,tenure_years,credit_score,employment_months,payment_bounces_6m,identity_proof,income_proof,bank_statements,property_papers,credit_consent,identity_mismatch,bank_entry_exception,employer_mismatch
+DEMO-001,110000,9000,5500000,4200000,8.75,20,742,30,0,true,true,true,false,true,false,false,false
+DEMO-002,65000,8000,3800000,3000000,9.25,20,690,14,1,true,true,true,true,true,false,false,false
+DEMO-003,50000,20000,3000000,2800000,9.00,15,640,3,3,false,false,true,false,true,true,false,false
